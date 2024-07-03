@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nic0las-R0ssi
+- 👀 I’m interested in game development and programming
+- 🌱 I’m currently learning hardvar's C50x course
